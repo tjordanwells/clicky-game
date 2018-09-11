@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Rick",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Rick_and_Morty_characters_-_Rick_Sanchez.jpg/220px-Rick_and_Morty_characters_-_Rick_Sanchez.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Morty",
+    "image": "https://cdn-images-1.medium.com/max/2000/1*RlAYzmJ5wAfrsgNjueQtMw.png"
+  },
+  {
+    "id": 3,
+    "name": "Summer",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/a/ad/Summer_is_cool.jpeg/revision/latest/scale-to-width-down/310?cb=20160919183158"
+  },
+  {
+    "id": 4,
+    "name": "Beth",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/5/58/Beth_Smith.png/revision/latest?cb=20151204220729"
+  },
+  {
+    "id": 5,
+    "name": "Jerry",
+    "image": "http://78.media.tumblr.com/09ba2b5fae02d3743b6a6fff42b90f9c/tumblr_nvu191JQk61uz53k3o1_500.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mr. Meeseeks",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/6/6c/MeeseeksHQ.png/revision/latest?cb=20150930232412"
+  },
+  {
+    "id": 7,
+    "name": "Bird Person",
+    "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/birdperson-rick-and-morty-3.59.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Pickle Rick",
+    "image": "https://nerdist.com/wp-content/uploads/2017/08/Pickle-Rick-giveaway.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Lucius Needful",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ERdUzXN9N_RMlTnHhDY6KTNyORitl96z0WnxvUDcyO7QaK2WnA"
+  },
+  {
+    "id": 10,
+    "name": "Mr. Poopybutthole",
+    "image": "https://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/t/597a8d45197aeafed27fa4c2/1501203784283/?format=2500w"
+  },
+  {
+    "id": 11,
+    "name": "Squanchy",
+    "image": "https://www.geek.com/wp-content/uploads/2016/05/squanching.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Krombopulos Michael",
+    "image": "https://www.geek.com/wp-content/uploads/2016/05/kmichael-1024x523.jpg"
+  }
+]
