@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import Nav from './Nav';
-import Header from './Header';
-import ImageCard from './ImageCard';
-import Footer from './Footer';
+import Nav from './nav';
+import Header from './header';
+import ImageCard from './imageCard';
+import Footer from './footer';
 import characters from '../characters.json';
 
 let score = 0;
